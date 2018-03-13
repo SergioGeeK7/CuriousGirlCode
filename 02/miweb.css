@@ -1,0 +1,9 @@
+div div{
+    margin: 0 auto;
+    width: 65%;
+    display: block;
+    font-family: monospace;
+    color:red;
+    justify-content: space-around;
+    background: black
+}
